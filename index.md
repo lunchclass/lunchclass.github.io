@@ -12,6 +12,8 @@ An organization for open source developers where work at companies, which try to
 
 ## Activities
 <dl>
+<dt><b>2017.10.26 Samsung Open Source Conference 2017 (Jinho Bang)</b></dt>
+<dd>Bacardi Project: Open source binding generator for Node.js native module <a href="http://www.soscon.net/schedule.do">[View]</a></dd>
 <dt><b>2017.10.16 Naver Deview 2017 (Jinho Bang)</b></dt>
 <dd>Improve Native Module for Node.js(C++ Addon, N-API) by Using Chromium Binding Technology <a href="https://deview.kr/2017/schedule/213?&lang=en">[View]</a></dd>
 <dt><b>2017.10.16 Naver Deview 2017 (Dongjin Na, Hyung Heo)</b></dt>
